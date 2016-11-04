@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget appId="11551999" channelCode="000" height="480" sreensize="3.5" version="00.00.0001" widgetId="" width="320">
+    <name>Buffet</name>
+    <description>离线打包样例项目</description>
+    <author email="maq128@126.com">maq</author>
+    <icon src="icon.png" />
+    <content encoding="utf-8" src="index.html" />
+    <obfuscation>false</obfuscation>
+    <bgcolor>#fefefe</bgcolor>
+    <widgetOne version="[widgetOneVersion]" />
+    <orientation>15</orientation>
+</widget>
